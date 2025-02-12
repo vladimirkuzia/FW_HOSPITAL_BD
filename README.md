@@ -77,5 +77,5 @@ psql Hospital < hospital.sql
  |  password      | VARCHAR(20)   | Пароль врача |
 
 ## Общая схема БД:
-![Alt-ERD for database](images/strucdb.png)
+![Alt-ERD for database](/images/strucdb.png)
 
